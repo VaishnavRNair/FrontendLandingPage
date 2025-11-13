@@ -24,13 +24,6 @@ It includes a header, hero section, contact form, and footer with social media l
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your landing page here — for example:)
-- `screenshots/landing-desktop.png`
-- `screenshots/landing-mobile.png`
-
----
-
 ## 🚀 How to Run
 1. Open the folder in **VS Code**.
 2. Right-click on `index.html` and select **“Open with Live Server”**.
